@@ -6,7 +6,7 @@
 ![image](https://github.com/user-attachments/assets/7edf4e2a-b2bc-4bf2-a630-674f739a5fc6)
 
 ```java
-public abstract class Pessoa {
+public class Pessoa {
 	private String nome;
 	private int idade;
 
